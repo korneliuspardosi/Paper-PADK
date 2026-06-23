@@ -20,8 +20,8 @@ This project employs a discrete choice econometric approach:
 * **Controls:** City Fixed Effects to account for unobserved heterogeneity in local bureaucratic efficiency and infrastructure.
 
 ## Repository Structure
-* `notebooks/` : Jupyter Notebooks (`.ipynb`) containing data cleaning, exploratory data analysis (EDA), and regression modeling.
-* `paper/` : The final manuscript and publication drafts (LaTeX/PDF format).
+* `Notebook/` : Jupyter Notebooks (`.ipynb`) containing data cleaning, exploratory data analysis (EDA), and regression modeling.
+* `Paper/` : The final manuscript and publication drafts (LaTeX/PDF format).
 * `data/` : Indonesia-2023-ISES-full-data.dta
 
 ## Main References
